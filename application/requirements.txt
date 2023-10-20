@@ -1,3 +1,5 @@
-flask
+flask==2.3.3
 flask_restx
-Werkzeug
+Werkzeug==2.3.7
+requests
+dicttoxml
